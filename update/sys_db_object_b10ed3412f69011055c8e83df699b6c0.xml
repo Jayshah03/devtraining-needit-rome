@@ -16,7 +16,7 @@
         <name>x_58872_needit_needit</name>
         <number_ref display_value="Ni">7eee57052f69011055c8e83df699b63d</number_ref>
         <provider_class/>
-        <read_access>false</read_access>
+        <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class display_value="Task" name="task">e44e166aa5300110c0a0e1db2cdc951f</super_class>
         <sys_class_code/>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-02-07 04:05:05</sys_created_on>
         <sys_id>b10ed3412f69011055c8e83df699b6c0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>NeedIt</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_db_object_b10ed3412f69011055c8e83df699b6c0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-02-07 04:09:58</sys_updated_on>
+        <sys_updated_on>2022-02-07 04:11:57</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">1aee9bc12f69011055c8e83df699b6b5</user_role>
         <ws_access>true</ws_access>
